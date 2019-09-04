@@ -1,0 +1,4 @@
+PHPMailer/SMTP.php
+PHPMailer/Exception.php
+PHPMailer/Oauth.php
+PHPMailer/PHPMailer.php
